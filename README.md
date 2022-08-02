@@ -2,7 +2,7 @@
 
 I'm Marco Cicognani, an enthusiastic Operating System developer which loves modern C++, Rust and Java.
 
-- 🔭 I’m currently working on [MeetixOS](https://github.com/MarcoCicognani/MeetixOS)
+- 🔭 I’m currently working on [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) an operating system written in modern C++20 which aims to be Unix-like
 - 🌱 I'm currently dreaming about a language with a syntax similar to Rust but without the borrow checker...ow it's [Carbon](https://github.com/carbon-language/carbon-lang)!
 
 Feel free to contact me at [marco.cicognani@meetixos.org](mailto:marco.cicognani@meetixos.org)/[marco.cicognani@btstore.com](mailto:marco.cicognani@btstore.com)
